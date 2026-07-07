@@ -1,0 +1,139 @@
+# Social Media Post Design
+
+## Project Title
+
+Social Media Post Design
+
+## Objective
+
+To create visually appealing social media posts that effectively communicate information using engaging visuals, typography, and consistent branding. The project aims to develop skills in composition, visual storytelling, and digital content creation.
+
+## Tools Used
+
+* Canva
+* Adobe Photoshop
+* Adobe Illustrator
+* HTML
+* CSS
+
+## Key Features
+
+* Engaging visual layout
+* Professional typography
+* Consistent branding and color scheme
+* Responsive design structure
+* Call-to-action section
+* Social media-friendly content
+
+## Task Performed
+
+A promotional social media post was designed for a technology internship program. The design includes a catchy headline, internship details, a call-to-action button, and relevant hashtags. A consistent blue-and-white color scheme was used to maintain a professional appearance.
+
+## Source Code
+
+### index.html
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Social Media Post</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="post">
+        <h1>🚀 Kickstart Your Tech Career!</h1>
+        <p>Join our Internship Program and gain hands-on experience in:</p>
+
+        <ul>
+            <li>Web Development</li>
+            <li>Data Science</li>
+            <li>Artificial Intelligence</li>
+            <li>Cybersecurity</li>
+        </ul>
+
+        <button>Apply Now</button>
+
+        <div class="hashtags">
+            #Internship #Technology #CareerGrowth #Students
+        </div>
+    </div>
+</body>
+</html>
+```
+
+### style.css
+
+```css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.post {
+    width: 400px;
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+h1 {
+    color: #0056b3;
+}
+
+p {
+    color: #333;
+}
+
+ul {
+    text-align: left;
+    margin: 15px 0;
+}
+
+button {
+    background: #0056b3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #003d80;
+}
+
+.hashtags {
+    margin-top: 15px;
+    color: #666;
+    font-size: 14px;
+}
+```
+
+## Output
+
+The output displays a professional social media promotional post featuring:
+
+* Attractive heading
+* Internship information
+* Call-to-action button
+* Consistent branding
+* Modern and clean design
+
+## Learning Outcomes
+
+* Learned composition and layout principles.
+* Improved typography and color selection skills.
+* Understood branding consistency.
+* Developed visual storytelling techniques.
+* Gained experience in creating social media content.
+
+## Conclusion
+
+The Social Media Post Design project was completed successfully. The final design is visually appealing, professional, and suitable for platforms such as Instagram, Facebook, and LinkedIn.
